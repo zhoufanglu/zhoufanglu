@@ -1,4 +1,4 @@
-### hi,Ma ka Ma ka 👋
+### Ma ka Ma ka 👋
 I am just a mediocre  web front-end developer!
 
 <!--
