@@ -1,4 +1,5 @@
-<!--### Hi there 👋-->
+### hi,Ma ka Ma ka 👋
+I am just a mediocre  web front-end developer!
 
 <!--
 **zhoufanglu/zhoufanglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu)](https://github.com/anuraghazra/github-readme-stats)
+[![lufangzhou's github stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 😄 Worked language
+
+- ✅ JavaScript / TypeScript / ...
+- ✅ MpVue / UNI-App / ...
+- ✅ Vue.js / ...
+- ✅ Node.js /...
