@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lufangzhou's github stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![lufangzhou's github stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 😄 Worked skills
@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 - ✅ webpack / vite /...
 - ✅ Node.js / Nuxt.js ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
