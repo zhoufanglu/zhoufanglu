@@ -1,5 +1,7 @@
 ### Ma ka Ma ka 👋
-I am just a mediocre  web front-end developer!
+I am just a mediocre  web front-end developer! 
+ 
+ 
 - 😄 &nbsp; [Here](https://zhoufanglu.github.io/vuepressBlog/) is my personal blog;
 - 😄 &nbsp; [Here](https://juejin.cn/user/1679709496677575) is my juejin;
 <!--
@@ -23,7 +25,7 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
- 
+ ---
  
 ### 😄 Worked skills
 - ✅ JavaScript / TypeScript / ...
@@ -31,11 +33,10 @@ Here are some ideas to get you started:
 - ✅ Vue.js / React.js / ...
 - ✅ webpack / vite /...
 - ✅ Node.js / Nuxt.js ...  
- 
-  
+
+
    
-   
-<p align="left">
+- <p align="left">
   <code><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
   <code><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" height="25"/></code>
 </p>
 
-
+---
 <div>
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical"/>
