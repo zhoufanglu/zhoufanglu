@@ -2,7 +2,9 @@
 ### 👋 Ma ka Ma ka 
 - I am just a mediocre  web front-end developer! 
 - 😄 &nbsp; [Here](https://zhoufanglu.github.io/vuepressBlog/) is my personal blog
-- 😄 &nbsp; [Here](https://juejin.cn/user/1679709496677575) is my juejin
+- 😄 &nbsp; [Here](https://juejin.cn/user/1679709496677575) is my juejin 
+
+
 <!--
 **zhoufanglu/zhoufanglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,6 +49,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
 </a>
-</div>
+</div> 
+
+--- 
+
+![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only) 
+---
+![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 
 
