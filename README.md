@@ -49,12 +49,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
 </a>
-</div> 
+</div>  
 
 --- 
 
-![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only) 
----
 ![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
