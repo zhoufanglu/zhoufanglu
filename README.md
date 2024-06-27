@@ -2,7 +2,8 @@
 ### 🐶 Ma ka Ma ka 
 - I am just a mediocre  web front-end developer! 
 - 😄 &nbsp; [Here](https://zhoufanglu.github.io/vuepressBlog/) is my personal blog
-- 😄 &nbsp; [Here](https://juejin.cn/user/1679709496677575) is my juejin 
+- 😄 &nbsp; [Here](https://juejin.cn/user/1679709496677575) is a place to write articles
+
 
 
 <!--
