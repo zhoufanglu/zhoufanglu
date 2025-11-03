@@ -46,11 +46,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical"/>
 </a>
-
+<!--
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
 </a>
-</div>  
+</div>
+ -->
 
 ---    
 <!--
