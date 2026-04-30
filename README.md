@@ -45,8 +45,17 @@ Here are some ideas to get you started:
 <div>  
  
  ###  👾  Stats
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical) 
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&theme=radical&hide_border=true&layout=compact"
+    height="170"
+  />
+</p>
+
 
 ---
 
