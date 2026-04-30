@@ -42,20 +42,26 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<div>
- <!--
+<div>  
+ 
+ ###  👾  Stats
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical) 
+
+---
+
+<!--
 <a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical"/>
 </a>
 -->
-<!--
-<a href="https://github.com/zhoufanglu">
+<!--<a href="https://github.com/zhoufanglu">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
 </a>
 </div>
- -->
+-->
 
----    
+
 <!--
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=zhoufanglu&theme=summer">
@@ -67,7 +73,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 😤Hard things must be rewarded
+### 😤 Hard things must be rewarded
 ![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
 ![TOG](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
 
