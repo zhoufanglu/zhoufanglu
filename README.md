@@ -47,13 +47,14 @@ Here are some ideas to get you started:
 <div>  
  
  ###  👾  Stats
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical&hide_border=true"
+<p align="left" style="display:flex; gap: 20px;">
+   <img
+    src="https://github-readme-stats-beta-two-78.vercel.app/api?username=zhoufanglu&show_icons=true&theme=radical&hide_border=true"
     height="170"
   />
+ &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoufanglu&theme=radical&hide_border=true&layout=compact"
+    src="https://github-readme-stats-beta-two-78.vercel.app/api/top-langs/?username=zhoufanglu&theme=radical&hide_border=true&layout=compact"
     height="170"
   />
 </p>
